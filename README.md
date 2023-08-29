@@ -2,7 +2,7 @@
 Repositório oficial do projeto do Squad44, RecodePro 2023
 
 **Descrição** 📋
-O projeto final do Squad44 é um protótipo de um aplicativo para trabalhadores informais, uma espécie de Uber dos pequenos serviços como diaristas, babás, esteticistas, cabeleireiros, maridos de aluguel, pedreiros, encanadores, etc. O aplicativo visa atender à proposta da OMS, focada na empregabilidade e geração de renda para pessoas carentes.
+O projeto final do Squad44 é um protótipo de um aplicativo para trabalhadores informais, uma espécie de Uber dos pequenos serviços como diaristas, babás, esteticistas, cabeleireiros, maridos de aluguel, pedreiros, encanadores, etc. O aplicativo visa atender à proposta da ONU- ODS 8 - (Trabalho digno e desenvolvimento econômico) focada na empregabilidade e geração de renda para pessoas carentes.
 
 **Objetivos iniciais** 🎯
 
@@ -36,15 +36,15 @@ Equipe
 
 Nosso app espera ter um impacto positivo nas seguintes áreas:
 
-- Empregabilidade: O projeto espera gerar novas oportunidades de emprego para pessoas carentes.
-- Geração de renda: O projeto espera aumentar a renda de pessoas carentes.
-- Inclusão social: O projeto espera promover a inclusão social de pessoas carentes.
-- Qualidade de vida: O projeto espera melhorar a qualidade de vida de pessoas carentes.
-- Economia local: vamos diretamente contribuir com a economia local, conectando as profissões mais comuns em uma comunidade urbana.
-- Inclusão e igualdade de gênero: O projeto visa permitir que as mulheres também tenham oportunidades de trabalho e empreendedorismo, dentro de sua própria comunidade.
+- Empregabilidade: O projeto tem como objetivo criar novas oportunidades de emprego para pessoas carentes, facilitando a conexão entre prestadores de serviço e contratantes.
+- Geração de renda: O projeto pretende aumentar a renda de pessoas carentes.
+- Inclusão social: O projeto busca promover a inclusão social de pessoas carentes, fortalecendo os laços comunitários e estimulando a participação cidadã.
+- Qualidade de vida: O projeto visa melhorar a qualidade de vida de pessoas carentes.
+- Economia local:  O projeto contribui diretamente com a economia local, conectando as profissões mais comuns em uma comunidade urbana com as necessidades dos moradores e dos comerciantes.
+- Inclusão e igualdade de gênero: O projeto também permite que as mulheres tenham oportunidades de trabalho e empreendedorismo, dentro de sua própria comunidade, promovendo a equidade e o empoderamento feminino.
 
 **Conclusão** 🎉
 
-O projeto final do Squad44 é um projeto importante que visa atender à proposta da OMS, focada na empregabilidade e geração de renda para pessoas carentes. O projeto tem potencial de ter um impacto positivo na vida de muitas pessoas. Estamos fomentando o comercio local, incentivando o crescimento financeiro e promovendo uma maior integração ativa da comunidade na sociedade.
+O projeto final do Squad44 é um projeto importante que visa atender à proposta da ONU- ODS 8 (Trabalho digno e desenvolvimento econômico), focada na empregabilidade e geração de renda para pessoas carentes. O projeto tem potencial de ter um impacto positivo na vida de muitas pessoas. Estaremos fomentando o comercio local, incentivando o crescimento financeiro e promovendo uma maior integração ativa da comunidade na sociedade.
 
 ![Imagem do Projeto](linkimg)
